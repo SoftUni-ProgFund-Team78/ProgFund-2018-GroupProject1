@@ -14,7 +14,7 @@ namespace rectangular
             // Take width and height of the rectangle from the console
             double width = double.Parse(Console.ReadLine());
             double height = double.Parse(Console.ReadLine());
-            //Print rectangle area
+            //Print rectangle's area
             Console.WriteLine("{0:0.00}", width * height);
         }
     }
