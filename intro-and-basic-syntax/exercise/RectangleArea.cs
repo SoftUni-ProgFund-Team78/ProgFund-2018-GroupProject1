@@ -1,5 +1,4 @@
-﻿// CONFIRMED from StanZash
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,10 +10,11 @@ namespace rectangular
     {
         static void Main(string[] args)
         {
-            // Take width and height of the rectangle from the console
+            // We take the ractangle wigth and height in two lines, as floating point numbers
             double width = double.Parse(Console.ReadLine());
             double height = double.Parse(Console.ReadLine());
-            //Print rectangle's area
+
+            //We print the resulting ractangle area following the formula width * height
             Console.WriteLine("{0:0.00}", width * height);
         }
     }
