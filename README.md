@@ -1,6 +1,19 @@
 # ProgFund-2018-GroupProject1
 Programing Fundamentals Group Project 7 Mar 2018
 
+### Problem 3.                 
+Miles to Kilometers
+
+### 
+
+Write a program, which **converts****miles** to **kilometers**. **Format** the output
+to the **2
+
+nd decimal place**.
+
+Note: **1 mile ==
+1.60934 kilometers**
+
 ### Problem 4.                 
 Beverage Labels
 
