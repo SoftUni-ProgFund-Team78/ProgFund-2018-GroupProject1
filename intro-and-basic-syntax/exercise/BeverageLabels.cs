@@ -1,5 +1,5 @@
 ﻿// CONFIRMED from naskobarsa
-// Exellent coding
+// Exellent coding Stan
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +13,7 @@ namespace _04.BeverageLabels
         static void Main(string[] args)
         {
             // Take product's name
-            string beverageName = Console.ReadLine();
+            string name = Console.ReadLine();
             // Take product's parameters
             int volume = int.Parse(Console.ReadLine());
             int energy = int.Parse(Console.ReadLine());
@@ -22,7 +22,7 @@ namespace _04.BeverageLabels
             double energyContent = volume / 100.0 * energy;
             double sugarContent = volume / 100.0 * sugar;
             // Print results
-            Console.WriteLine($"{volume}ml {beverageName}:");
+            Console.WriteLine($"{volume}ml {name}:");
             Console.WriteLine($"{energyContent}kcal, {sugarContent}g sugars");
 
 
