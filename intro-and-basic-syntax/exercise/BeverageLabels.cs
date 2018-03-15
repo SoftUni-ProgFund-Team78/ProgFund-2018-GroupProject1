@@ -13,7 +13,7 @@ namespace _04.BeverageLabels
         static void Main(string[] args)
         {
             // Take product's name
-            string name = Console.ReadLine();
+            string beverageName = Console.ReadLine();
             // Take product's parameters
             int volume = int.Parse(Console.ReadLine());
             int energy = int.Parse(Console.ReadLine());
@@ -22,7 +22,7 @@ namespace _04.BeverageLabels
             double energyContent = volume / 100.0 * energy;
             double sugarContent = volume / 100.0 * sugar;
             // Print results
-            Console.WriteLine($"{volume}ml {name}:");
+            Console.WriteLine($"{volume}ml {beverageName}:");
             Console.WriteLine($"{energyContent}kcal, {sugarContent}g sugars");
 
 
