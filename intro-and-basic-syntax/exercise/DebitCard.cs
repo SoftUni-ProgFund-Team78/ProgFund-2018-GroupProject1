@@ -1,4 +1,4 @@
-﻿// CONFIRMED from StanZash
+﻿// CONFIRMED from silmil
 using System;
 
 namespace DebitCard
