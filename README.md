@@ -1,7 +1,27 @@
 # ProgFund-2018-GroupProject1
 Programing Fundamentals Group Project 7 Mar 2018
 
-### Problem 1.               
+### Problem 4.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Beverage Labels
+
+Write a program, which reads a food product **name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
+for the **given volume** and print them
+on the console in the following format:
+
+Â·Â Â Â Â Â Â Â Â 
+Name â€“ as per the input
+
+Â·Â Â Â Â Â Â Â Â 
+Volume â€“ **integer**,
+**suffixed** by â€œ**ml**â€ (e.g. â€œ**220ml**â€)
+
+Â·Â Â Â Â Â Â Â Â 
+Energy content â€“ **integer**, **suffixed** by â€œ**kcal**â€ (e.g. â€œ**500kcal**â€)
+
+Â·Â Â Â Â Â Â Â Â 
+Sugar content â€“ **integer**, **suffixed** by â€œ**g**â€ (e.g. â€œ**30g**â€)Â 
+
+### Problem 1.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Debit Card Number
 
 Write a program, which receives **4****integers**
@@ -60,7 +80,7 @@ examples below for the appropriate formatting.
 
 0812 0321 0123 0022
 
-### Problem 4.               
+### Problem 4.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Beverage Labels
 
 Write a program, which reads a food product
@@ -68,18 +88,18 @@ Write a program, which reads a food product
 for the **given volume** and print them
 on the console in the following format:
 
-·        
-Name – as per the input
+Â·Â Â Â Â Â Â Â Â 
+Name â€“ as per the input
 
-·        
-Volume – **integer**, **suffixed** by “**ml**” (e.g. “**220ml**”)
+Â·Â Â Â Â Â Â Â Â 
+Volume â€“ **integer**, **suffixed** by â€œ**ml**â€ (e.g. â€œ**220ml**â€)
 
-·        
-Energy content – **integer**, **suffixed** by “**kcal**” (e.g.
-“**500kcal**”)
+Â·Â Â Â Â Â Â Â Â 
+Energy content â€“ **integer**, **suffixed** by â€œ**kcal**â€ (e.g.
+â€œ**500kcal**â€)
 
-·        
-Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”) 
+Â·Â Â Â Â Â Â Â Â 
+Sugar content â€“ **integer**, **suffixed** by â€œ**g**â€ (e.g. â€œ**30g**â€) 
 
 #### Examples
 
@@ -107,7 +127,7 @@ Nuka-Cola
 
 660kcal, 154g sugars
 
- 
+Â 
 
  
 
@@ -133,7 +153,7 @@ Ice Cold Nuka-Cola
 
 875kcal, 162.5g sugars
 
- 
+Â 
 
  
 
